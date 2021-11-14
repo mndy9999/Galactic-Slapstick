@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: aff8ccf549b1b8245a3aea48df621477
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7699239714122577874
+    second: PlanetNoLight_0
+  - first:
+      213: 6562253678594053881
+    second: PlanetNoLight_1
+  - first:
+      213: 2076250051025627318
+    second: PlanetNoLight_2
+  - first:
+      213: 2343833858242737257
+    second: PlanetNoLight_3
+  - first:
+      213: 5237034997164289490
+    second: PlanetNoLight_4
+  - first:
+      213: 3125760424222569238
+    second: PlanetNoLight_5
+  - first:
+      213: 3835097529891517579
+    second: PlanetNoLight_6
+  - first:
+      213: 8805271719416012993
+    second: PlanetNoLight_7
+  - first:
+      213: 2920412220838837312
+    second: PlanetNoLight_8
+  - first:
+      213: -2956602690898470122
+    second: PlanetNoLight_9
+  - first:
+      213: 3939881725559193296
+    second: PlanetNoLight_10
+  - first:
+      213: -7486887565741655267
+    second: PlanetNoLight_11
+  - first:
+      213: 6896361109893129613
+    second: PlanetNoLight_12
+  - first:
+      213: -7150056348560718234
+    second: PlanetNoLight_13
+  - first:
+      213: 921097929067733386
+    second: PlanetNoLight_14
+  - first:
+      213: 19186436649507556
+    second: PlanetNoLight_15
+  - first:
+      213: 5566263162867343498
+    second: PlanetNoLight_16
+  - first:
+      213: -3972020776473146735
+    second: PlanetNoLight_17
+  - first:
+      213: 2293708953385285663
+    second: PlanetNoLight_18
+  - first:
+      213: -6732197736756907680
+    second: PlanetNoLight_19
+  - first:
+      213: 7373525852206958117
+    second: PlanetNoLight_20
+  - first:
+      213: -6732146403137304929
+    second: PlanetNoLight_21
+  - first:
+      213: -8313681861233003412
+    second: PlanetNoLight_0
+  - first:
+      213: -9177524239223989781
+    second: PlanetNoLight_1
+  - first:
+      213: 2860479217468040206
+    second: PlanetNoLight_2
+  - first:
+      213: -4277014939851828354
+    second: PlanetNoLight_3
+  - first:
+      213: -3076538278893430145
+    second: PlanetNoLight_4
+  - first:
+      213: 5043586009633009810
+    second: PlanetNoLight_5
+  - first:
+      213: 6197246378004706916
+    second: PlanetNoLight_6
+  - first:
+      213: -3967042087747997896
+    second: PlanetNoLight_7
+  - first:
+      213: 5641674947178522211
+    second: PlanetNoLight_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlanetNoLight_0
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 410
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64399d156edf9c80800000000000000
+      internalID: -8313681861233003412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetNoLight_1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 410
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9548b3452e2a080800000000000000
+      internalID: -9177524239223989781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetNoLight_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 410
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04e19c51b672b720800000000000000
+      internalID: 2860479217468040206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetNoLight_3
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 230
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d713a29df4a4c0800000000000000
+      internalID: -4277014939851828354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 245.5, y: 258.5}
+      - {x: 233.5, y: 228.5}
+      - {x: 233.5, y: 43.5}
+      - {x: 261.5, y: 5.5}
+      - {x: 390.5, y: 5.5}
+      - {x: 468.5, y: 47.5}
+      - {x: 468.5, y: 225.5}
+      - {x: 403.5, y: 258.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
